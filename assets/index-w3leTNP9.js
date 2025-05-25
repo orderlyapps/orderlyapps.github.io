@@ -1,0 +1,1 @@
+import{j as e,L as n}from"./index-C-vFoVTo.js";const o=function(){return e.jsxs("div",{style:{textAlign:"center",padding:"2rem",display:"flex",flexDirection:"column",gap:"1rem"},children:[e.jsx("code",{style:{fontSize:"2rem"},children:"Orderly Apps"}),e.jsx(n,{to:"/mantine/buttons",children:"Mantine"})]})};export{o as component};
